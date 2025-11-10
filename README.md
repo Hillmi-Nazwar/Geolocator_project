@@ -13,9 +13,9 @@ dan startTracking (di dalam .listen()) setelah setState untuk currentPosition.
 6. Tampilkan currentAddress di UI Anda, di bawah Lat/Lng.
 
 Tampilan Sebelum 
-![alt text](sebelum.jpg)
+![alt text](sebelum-1.jpg)
 
 Tampilan Setelah
-![alt text](sesudah.jpg)
+![alt text](sesudah-1.jpg)
 
 
