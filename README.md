@@ -1,6 +1,6 @@
 # Geolocator_Project
 
-**Tugas 1**: Geocoding (Alamat dari Koordinat)
+# **Tugas 1**: Geocoding (Alamat dari Koordinat)
 Saat ini kita hanya menampilkan Lat/Lng. Buatlah agar aplikasi menampilkan alamat
 (nama jalan, kota, dll) dari koordinat yang didapat.
 Petunjuk:
@@ -33,16 +33,31 @@ ini adalah fungsi untuk menampilkan lokasi yang sudah dikumpulkan.
 
 
 
-## Berikut adalah hasilnya
-Tampilan Sebelum 
+# Berikut adalah hasilnya
+
+## Tampilan Sebelum 
+
 ![alt text](sebelum-1.jpg)
 
-Tampilan Setelah
+
+## Tampilan Setelah
+
 ![alt text](sesudah-1.jpg)
 
 
-# Tugas 2
+
+===================================================================================
+# **Tugas 2**: Jarak Real-time ke Titik Tetap
+Manfaatkan fungsi Geolocator.distanceBetween dari Langkah 4.
+1. Buat variabel String? distanceToPNB; di MyHomePageState.
+2. Di dalam startTracking (di dalam .listen()), panggil fungsi untuk menghitung
+jarak:
+3. Simpan hasilnya di distanceToPNB menggunakan setState.
+4. Tampilkan distanceToPNB di UI agar jaraknya ter-update secara real-time saat
+Anda bergerak
+
 ## Hasil nya 
+ Jadi saya melakukan penghitungan jarak dari lokasi awal saya sampai ke tujuan yang telah saya tentukan.
 ![Tugas 2](https://github.com/user-attachments/assets/3b6947a7-cba6-4a6d-9239-202c92e14c04)
 
  
