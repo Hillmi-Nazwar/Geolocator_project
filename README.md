@@ -18,16 +18,19 @@ dan startTracking (di dalam .listen()) setelah setState untuk currentPosition.
 ## Beberapa Bagian
 
 ini adalah fungsi untuk mengkoversi koordinat menjadi alamat dan fungsi ini menggunakan paket geocoding untuk mendapatkan detail alamat.
-![alt text](carbon (7).png)
+<img width="1850" height="930" alt="carbon (7)" src="https://github.com/user-attachments/assets/d7f25a2b-c5a3-4d3e-8e0c-f8936045a6c9" />
 
 ini adalah fungsi untuk mendapatkan lokasi sekarang.
-![alt text](carbon (10).png)
+<img width="1312" height="670" alt="carbon (10)" src="https://github.com/user-attachments/assets/dfd1cf0a-2e21-4223-96b8-51628c5b20ba" />
+
 
 ini adalah fungsi untuk melacak lokasi, dan ini akan diupdate secara real time.
-![alt text](carbon (8)-1.png)
+<img width="1092" height="744" alt="carbon (8)" src="https://github.com/user-attachments/assets/3f224433-e03d-4d2c-ab75-0762b8f17244" />
+
 
 ini adalah fungsi untuk menampilkan lokasi yang sudah dikumpulkan.
-![alt text](carbon (9).png)
+<img width="1986" height="1192" alt="carbon (9)" src="https://github.com/user-attachments/assets/af10ff30-ca8c-4ef5-952c-21ae9c70e562" />
+
 
 
 ## Berikut adalah hasilnya
