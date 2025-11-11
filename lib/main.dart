@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
   //[Langkah 1] Buat variabel untuk menyimpan jarak ke PNB
   String? _distanceToPNB;
 
-  //Koordinat tetap (contoh: Politeknik Negeri Ranu Kumbolo)
+  //(jarak menuju Ranu Kumbolo)
   final double _pnbLatitude = -8.049555301623647;
   final double _pnbLongitude = 112.92034745915124;
 
