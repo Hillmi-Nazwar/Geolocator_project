@@ -37,3 +37,10 @@ Tampilan Sebelum
 Tampilan Setelah
 ![alt text](sesudah-1.jpg)
 
+
+# Tugas 2
+## Hasil nya 
+![Tugas 2](https://github.com/user-attachments/assets/3b6947a7-cba6-4a6d-9239-202c92e14c04)
+
+ 
+
